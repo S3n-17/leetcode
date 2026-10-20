@@ -1,29 +1,20 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int s = nums.size();
-        vector<int> dp(s, -1);
+        int maxReach = 0;
 
-        return func(0, s - 1, nums, dp);
-    }
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > maxReach) {
+                return false;
+            }
 
-    bool func(int k, int i, vector<int>& nums, vector<int>& dp) {
-        if(k >= i){
-            return true;
-        }
+            maxReach = max(maxReach, i + nums[i]);
 
-        if(dp[k] != -1){
-            return dp[k];
-        }
-
-        int end = min(i, k + nums[k]);
-
-        for(int h = k + 1; h <= end; h++){
-            if(func(h, i, nums, dp)){
-                return dp[k] = true;
+            if (maxReach >= nums.size() - 1) {
+                return true;
             }
         }
 
-        return dp[k] = false;
+        return true;
     }
 };
