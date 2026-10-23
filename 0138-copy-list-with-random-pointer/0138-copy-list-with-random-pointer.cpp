@@ -41,27 +41,25 @@ public:
         Node* ran=cn;
         int c=0, cc=0;
         while(temp != NULL){
-    if(temp->random != NULL){
-        Node* search = head;
-        cc = 0;
+        if(temp->random != NULL){
+            Node* search = head;
+            cc = 0;
 
-        while(search != temp->random){
-            search = search->next;
-            cc++;
-        }
+            while(search != temp->random){
+                search = search->next;
+                cc++;
+            }
 
-        tempcn = cn;
-        for(int i = 0; i < cc; i++){
-            tempcn = tempcn->next;
-        }
+            tempcn = cn;
+            for(int i = 0; i < cc; i++){
+                tempcn = tempcn->next;
+            }
 
-        ran->random = tempcn;
+            ran->random = tempcn;
         }
         else{
             ran->random = NULL;
         }
-
-        c++;
         ran = ran->next;
         tempcn = cn;
         temp = temp->next;
