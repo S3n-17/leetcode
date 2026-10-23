@@ -66,9 +66,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/S3n-17/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/S3n-17/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/S3n-17/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
