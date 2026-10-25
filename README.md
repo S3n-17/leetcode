@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/S3n-17/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/S3n-17/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/S3n-17/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/S3n-17/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/S3n-17/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/S3n-17/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
