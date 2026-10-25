@@ -23,16 +23,13 @@ public:
             while(tempn != NULL) {
                 if(tempn->val == temp->val) {
                     c++;
-                    printf("%d for %d\n",c, temp->val);
                     temp->next=temp->next->next;
                 }
                 tempn = tempn->next;
             }
-            printf("c=%d for %d\n",c,temp->val);
             if(c == 1) {
                 curr->next = new ListNode(temp->val);
                 curr = curr->next;
-                printf("%d inserted\n", temp->val);
             }
 
             temp = temp->next;
