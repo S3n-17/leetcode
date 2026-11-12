@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/S3n-17/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/S3n-17/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/S3n-17/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/S3n-17/leetcode/tree/main/0050-powx-n/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
