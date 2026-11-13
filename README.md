@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/S3n-17/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/S3n-17/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/S3n-17/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/S3n-17/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/S3n-17/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
