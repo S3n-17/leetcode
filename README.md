@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/S3n-17/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/S3n-17/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,10 +90,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/S3n-17/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/S3n-17/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
