@@ -51,6 +51,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/S3n-17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S3n-17/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/S3n-17/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
