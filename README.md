@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/S3n-17/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/S3n-17/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/S3n-17/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@
 | [0015-3sum](https://github.com/S3n-17/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
