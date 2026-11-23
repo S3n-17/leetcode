@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/S3n-17/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/S3n-17/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -85,6 +86,7 @@
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/S3n-17/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -113,6 +115,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/S3n-17/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/S3n-17/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/S3n-17/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +150,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -177,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/S3n-17/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
