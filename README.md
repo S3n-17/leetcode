@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/S3n-17/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -40,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -80,6 +83,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
