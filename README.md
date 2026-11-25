@@ -21,6 +21,7 @@
 | [0164-maximum-gap](https://github.com/S3n-17/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/S3n-17/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -63,11 +64,13 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/S3n-17/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/S3n-17/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/S3n-17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/S3n-17/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -95,6 +98,7 @@
 | [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/S3n-17/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
