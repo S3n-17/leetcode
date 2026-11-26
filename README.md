@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/S3n-17/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/S3n-17/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/S3n-17/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S3n-17/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -173,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/S3n-17/leetcode/tree/main/0383-ransom-note/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
