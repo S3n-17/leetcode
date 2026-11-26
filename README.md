@@ -115,6 +115,7 @@
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/S3n-17/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/S3n-17/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/S3n-17/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S3n-17/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/S3n-17/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
