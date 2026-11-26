@@ -44,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/S3n-17/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/S3n-17/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -74,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/S3n-17/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/S3n-17/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/S3n-17/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/S3n-17/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
