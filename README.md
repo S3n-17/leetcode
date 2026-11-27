@@ -123,6 +123,7 @@
 | [0050-powx-n](https://github.com/S3n-17/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/S3n-17/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/S3n-17/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/S3n-17/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -166,6 +167,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/S3n-17/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/S3n-17/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S3n-17/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3360-stone-removal-game](https://github.com/S3n-17/leetcode/tree/main/3360-stone-removal-game/) | Easy |
@@ -232,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/S3n-17/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
