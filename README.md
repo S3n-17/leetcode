@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/S3n-17/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/S3n-17/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/S3n-17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -60,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/S3n-17/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S3n-17/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -119,6 +121,7 @@
 | [0002-add-two-numbers](https://github.com/S3n-17/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/S3n-17/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/S3n-17/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/S3n-17/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/S3n-17/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -224,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/S3n-17/leetcode/tree/main/0274-h-index/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/S3n-17/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
