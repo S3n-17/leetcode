@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/S3n-17/leetcode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/S3n-17/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/S3n-17/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/S3n-17/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/S3n-17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/S3n-17/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/S3n-17/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
