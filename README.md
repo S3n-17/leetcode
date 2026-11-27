@@ -73,6 +73,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/S3n-17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/S3n-17/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/S3n-17/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0179-largest-number](https://github.com/S3n-17/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/S3n-17/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/S3n-17/leetcode/tree/main/0290-word-pattern/) | Easy |
